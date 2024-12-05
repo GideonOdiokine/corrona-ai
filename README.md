@@ -21,3 +21,15 @@ Features
 - ** 🌓 Light/dark mode toggle
 - ** ⚙️ Feature control settings
 - ** 🔒 Restrict features by plan
+
+Tech Stack & Tools
+- **React
+- **Nextjs15,
+- Typescript
+- **Clerk,
+- Neon,
+- Uploadcare,
+- Cloudways,
+- Bun,
+- Stripe,
+- Pusher
