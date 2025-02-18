@@ -47,7 +47,7 @@ const ConversationMenu = ({ domains }: Props) => {
                   />
                 ))
               ) : (
-                <CardDescription>No chats for you domain</CardDescription>
+                <CardDescription>No chats for your domain</CardDescription>
               )}
             </Loader>
           </div>
