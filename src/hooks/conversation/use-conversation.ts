@@ -149,7 +149,7 @@ export const useChatWindow = () => {
                 pusherClient.unsubscribe(chatRoom)
             }
         }
-    }, [chatRoom])
+    }, [chatRoom, setChats])
 
     const onHandleSentMessage = handleSubmit(async (values) => {
         try {
